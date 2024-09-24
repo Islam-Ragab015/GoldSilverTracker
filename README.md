@@ -1,6 +1,6 @@
 # GoldSilverTracker 
 
-GoldSilverTracker is a Flutter application that allows users to view real-time prices of gold and silver. The app fetches the latest prices from a reliable API and presents them in a user-friendly interface. 
+***GoldSilverTracker*** is a Flutter application that allows users to view real-time prices of gold and silver. The app fetches the latest prices from a reliable API and presents them in a user-friendly interface. 
 
 ## Features
 
