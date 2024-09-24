@@ -27,26 +27,27 @@ GoldSilverTracker is a Flutter application that allows users to view real-time p
 
 2. Navigate to the project directory:
 
-  cd PricePulse
+        cd GoldSilverTracker
   
 3. Install the dependencies:
 
-  flutter pub get
+        flutter pub get
 
 4. Run the app:
 
-  flutter run
+        flutter run
 
 API
 The app fetches gold and silver prices from the following API endpoints:
 
 Gold Price: XAU/EGP
 Silver Price: XAG/EGP
+
 Usage
-Open the app to view the current prices of gold and silver.
-Use the refresh button in the app bar or the floating action button to update the prices.
+   Open the app to view the current prices of gold and silver.
+   Use the refresh button in the app bar or the floating action button to update the prices.
 Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or bugs.
+   Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or bugs.
 
 Author
-Islam Elsherif - [Your GitHub Profile](https://github.com/Islam-Ragab015)
+   Islam Elsherif - [Your GitHub Profile](https://github.com/Islam-Ragab015)
