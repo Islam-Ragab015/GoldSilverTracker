@@ -8,6 +8,11 @@
 - **Beautiful UI**: Stylish design with a gradient background and smooth animations.
 - **Responsive Layout**: Adapts to different screen sizes for an optimal user experience.
 
+
+## ⭐️ If you find this project useful, please give it a star! ⭐️
+Your support helps me to keep improving and maintaining this project. Thank you!
+
+
 ## VideoShot
 
 ![Main Screen](assets/Today's Prices.mp4)  <!-- Update with an actual screenshot of your app -->
